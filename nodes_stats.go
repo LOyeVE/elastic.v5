@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"gopkg.in/olivere/elastic.v5/uritemplates"
+	"github.com/liyue201/elastic.v5/uritemplates"
 )
 
 // NodesStatsService returns node statistics.
